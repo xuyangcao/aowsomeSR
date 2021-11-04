@@ -1,5 +1,6 @@
 # aowsomeSR
-single image super-resolution and video super-resolution results
+
+图像超分实验结果，点击每幅图像可进一步观看结果详情。
 
 
 |Bjtu Dataset|
